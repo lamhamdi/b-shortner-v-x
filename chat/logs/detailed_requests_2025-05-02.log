@@ -1,0 +1,370 @@
+[REQUEST 2025-05-02 00:46:24]
+{
+    "timestamp": "2025-05-02 00:46:24",
+    "prompt": "high",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "high"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.501654,
+        "connect_time": 0.036862,
+        "size_upload": 133,
+        "size_download": 527,
+        "speed_upload": 265,
+        "speed_download": 1050,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:46:25]
+{
+    "timestamp": "2025-05-02 00:46:25",
+    "prompt": "high",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "high"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.515262,
+        "connect_time": 0.045674,
+        "size_upload": 133,
+        "size_download": 527,
+        "speed_upload": 258,
+        "speed_download": 1022,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:46:33]
+{
+    "timestamp": "2025-05-02 00:46:33",
+    "prompt": "\u0627\u0647\u0644\u0627",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u0627\u0647\u0644\u0627"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.38118,
+        "connect_time": 0.026858,
+        "size_upload": 153,
+        "size_download": 527,
+        "speed_upload": 401,
+        "speed_download": 1382,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:46:35]
+{
+    "timestamp": "2025-05-02 00:46:35",
+    "prompt": "\u0627\u0647\u0644\u0627",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u0627\u0647\u0644\u0627"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.387598,
+        "connect_time": 0.029817,
+        "size_upload": 153,
+        "size_download": 527,
+        "speed_upload": 394,
+        "speed_download": 1359,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:47:54]
+{
+    "timestamp": "2025-05-02 00:47:54",
+    "prompt": "\u062a",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u062a"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.484108,
+        "connect_time": 0.026887,
+        "size_upload": 135,
+        "size_download": 527,
+        "speed_upload": 278,
+        "speed_download": 1088,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:47:55]
+{
+    "timestamp": "2025-05-02 00:47:55",
+    "prompt": "\u062a",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u062a"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.514765,
+        "connect_time": 0.040955,
+        "size_upload": 135,
+        "size_download": 527,
+        "speed_upload": 262,
+        "speed_download": 1023,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:48:14]
+{
+    "timestamp": "2025-05-02 00:48:14",
+    "prompt": "\u0627",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u0627"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.398679,
+        "connect_time": 0.024921,
+        "size_upload": 135,
+        "size_download": 527,
+        "speed_upload": 338,
+        "speed_download": 1321,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:48:15]
+{
+    "timestamp": "2025-05-02 00:48:15",
+    "prompt": "\u0627",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u0627"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.507064,
+        "connect_time": 0.029403,
+        "size_upload": 135,
+        "size_download": 527,
+        "speed_upload": 266,
+        "speed_download": 1039,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:48:36]
+{
+    "timestamp": "2025-05-02 00:48:36",
+    "prompt": "\u0627",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u0627"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.521569,
+        "connect_time": 0.029537,
+        "size_upload": 135,
+        "size_download": 527,
+        "speed_upload": 258,
+        "speed_download": 1010,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+
+[REQUEST 2025-05-02 00:48:38]
+{
+    "timestamp": "2025-05-02 00:48:38",
+    "prompt": "\u0627",
+    "request_data": {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "\u0627"
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxTokens": 1024,
+            "topP": 0.8,
+            "topK": 40
+        }
+    },
+    "http_code": 400,
+    "curl_error": "",
+    "curl_errno": 0,
+    "request_info": {
+        "total_time": 0.49842,
+        "connect_time": 0.033439,
+        "size_upload": 135,
+        "size_download": 527,
+        "speed_upload": 270,
+        "speed_download": 1057,
+        "content_type": "application\/json; charset=UTF-8"
+    },
+    "response_preview": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com\/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"maxTokens\\\" at 'generation_config': Cannot find field.\"\n          }\n   ..."
+}
+

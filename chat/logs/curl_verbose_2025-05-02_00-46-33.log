@@ -1,0 +1,45 @@
+*   Trying 142.250.184.10:443...
+* Connected to generativelanguage.googleapis.com (142.250.184.10) port 443
+* ALPN: curl offers h2,http/1.1
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: CN=upload.video.google.com
+*  start date: Mar 31 08:55:35 2025 GMT
+*  expire date: Jun 23 08:55:34 2025 GMT
+*  subjectAltName: host "generativelanguage.googleapis.com" matched cert's "*.googleapis.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR2
+*  SSL certificate verify ok.
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=AIzaSyDztHEGNkhyncu23pVO-yP8A54rQkrRGFc
+* [HTTP/2] [1] [:method: POST]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: generativelanguage.googleapis.com]
+* [HTTP/2] [1] [:path: /v1beta/models/gemini-1.5-pro-latest:generateContent?key=AIzaSyDztHEGNkhyncu23pVO-yP8A54rQkrRGFc]
+* [HTTP/2] [1] [accept: */*]
+* [HTTP/2] [1] [content-type: application/json]
+* [HTTP/2] [1] [content-length: 153]
+> POST /v1beta/models/gemini-1.5-pro-latest:generateContent?key=AIzaSyDztHEGNkhyncu23pVO-yP8A54rQkrRGFc HTTP/2
+Host: generativelanguage.googleapis.com
+Accept: */*
+Content-Type: application/json
+Content-Length: 153
+
+* old SSL session ID is stale, removing
+< HTTP/2 400 
+< vary: X-Origin
+< vary: Referer
+< vary: Origin,Accept-Encoding
+< content-type: application/json; charset=UTF-8
+< date: Thu, 01 May 2025 22:46:13 GMT
+< server: scaffolding on HTTPServer2
+< x-xss-protection: 0
+< x-frame-options: SAMEORIGIN
+< x-content-type-options: nosniff
+< server-timing: gfet4t7; dur=37
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< accept-ranges: none
+< 
+* Connection #0 to host generativelanguage.googleapis.com left intact

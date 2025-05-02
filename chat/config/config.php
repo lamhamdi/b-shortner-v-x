@@ -5,7 +5,7 @@ require_once __DIR__ . '/../../includes/config.php';
 // Configuration settings for the chat system
 return [
     'gemini' => [
-        'api_key' => 'AIzaSyDztHEGNkhyncu23pVO-yP8A54rQkrRGFc',
+        'api_key' => 'API KEY',
         'model' => 'gemini-1.5-pro-latest',
         'fallback_model' => 'gemini-1.5-pro-latest', // Fallback model if primary fails
         'max_tokens' => 1024,
